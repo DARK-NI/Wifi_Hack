@@ -1,4 +1,6 @@
-## Wifi_Hack
+## Wifi Hacking Tool
+## DARK-NI
+### Not Working In Fake Root
 ### Hack WIfi Using Termux! (Requires Root)
 
 <p align="center"><img src="https://i.ibb.co/K74g0SC/hulu.jpg"></p>
@@ -27,3 +29,6 @@ $ sudo python birihack.py --help
 - `sudo python birihack.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
 ### Troubleshooting
 **"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
+
+
+©️THBD
